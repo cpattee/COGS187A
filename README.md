@@ -1,5 +1,7 @@
 COGS187A
 ========
+***BEWARE: TYPOS ARE PREVALENT DUE TO THE LACK OF SPELL CHECK IN MY TEXT EDITOR***
+========
 
 Group Project for Usability Evaluation Assignment
 ===================================================
